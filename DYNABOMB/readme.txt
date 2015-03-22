@@ -1,6 +1,6 @@
-For more fun visit my own page http://www11.brinkster.com/freesource
+For more fun visit my own page http:// www11.brinkster.com/freesource (website not current)
 Soon we will have lots of sources in many languages so don't forget
-Contact us at   enriquemail@mixmail.com    |    solrac@webmadrid.com
+Contact us at   enriquemail @ mixmail.com    |    solrac @ webmadrid.com (mails not current)
 Please report any good changes! we will give you credit for it
 
 bomber.zip comes with:
