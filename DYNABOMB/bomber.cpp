@@ -4,7 +4,7 @@ Bomberman ver 0.6nobugs last modified 12/01/00
 
 made by Enrique Huerta Mezquita and Carlos Huerta Mezquita
 
-contact us at enriquemail@mixmail.com | solrac@webmadrid.com
+contact us at enriquemail @ mixmail.com | solrac @ webmadrid.com (mails not current)
 
 This program is free and you are welcome to use its code in your
 
@@ -16,7 +16,7 @@ use of this software.
 
 For more stuff and new releases about this and other Freesource
 
-Company proyects visit http://www11.brinkster.com/freesource
+Company proyects visit http:// www11.brinkster.com/freesource (website  not current)
 
 */
 
